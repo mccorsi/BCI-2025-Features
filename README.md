@@ -12,12 +12,6 @@ Workshop WXXX Session 3 - Thursday, June 5, 9:45am – 12:45pm (Banff Time) - ro
 - [Marie-Constance Corsi](https://marieconstance-corsi.netlify.app/): Inria Research Scientist, Inria Paris, NERV project-team, Paris Brain Institute
 
 
-## Q&A
-Here is a document that gathers all the questions and their answer at the workshop following this link. Moreover, you can directly comment the document if you want to ask more questions and add precisions.
-
-Q&A link: https://tinyurl.com/4nbrbtbh
-
-
 ## Abstract
 BCIs constitute a promising tool for treating or circumventing neurological symptoms and
 promoting neurorehabilitation strategies. Yet, they fail to detect mental intentions in about 30% of
