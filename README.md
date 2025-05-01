@@ -59,25 +59,15 @@ We also expect contributions from diﬀerent teams interested in a broader range
 open-source tools presented during the workshop via new releases.
 
 
-## Timetable
+## Timetable - TODO
 
 ### Welcome & opening remarks
 
-### Part 1, Favoring reproducibility and replicability when conceiving new offline BCI pipelines
-*Who's who? Benchmarking EEG pipelines in BCI with MOABB*, by S. Chevallier (20' talk + 5' Q&A)
-
-### Part 2, Developing blocks of the BCI experiments
-*A guided tour on Riemannian methods for BCI via pyRiemann*, by P.L.C. Rodrigues (20' talk + 5' Q&A)
-
-*High-speed train(ing): An efficient trial-and-error oriented framework for feature selection in BCI, with HappyFeat*, by A. Desbois (20' talk + 5' Q&A)
-
-### Part 3, Developing new experimental setups
-*Online BCIs with Timeflux*, by P. Clisson (10' talk)
-
-*Commented use case: a cVEP BCI*, by P. Clisson (10' demo + 5' Q&A)
+### Part 1, XXX
+*XXXXX*, by XXX (15' talk + 5' Q&A)
 
 ### Part 4, Discussions
-Practical discussion on participants use cases based on the Q&A document.
+Panel discussion
 
 ### Conclusion & closing remarks
 
