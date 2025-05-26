@@ -74,11 +74,11 @@ Panel discussion
 ## Resources
 
 ## References
-Leeuwis, N., Yoon, S., & Alimardani, M. (2021). Functional connectivity analysis in motor-imagery brain computer interfaces. Frontiers in Human Neuroscience, 15, 732946.
-Verkennis, B., Van Weelden, E., Marogna, F. L., Alimardani, M., Wiltshire, T. J., & Louwerse, M. M. (2025, January). Predicting workload in virtual flight simulations using EEG spectral and connectivity features. In 2025 IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR) (pp. 82-89). IEEE.
-Kivioja, L. A., Leeuwis, N., Zapała, D., Alimardani, M. (2024, July). EEG connectivity patterns in left and right-handed users during motor imagery BCI control. In the 5th International Neuroergonomics Conference (pp. 359-366).
-T. Cattai, S. Colonnese, M. -C. Corsi, D. S. Bassett, G. Scarano and F. De Vico Fallani, "Phase/Amplitude Synchronization of Brain Signals During Motor Imagery BCI Tasks," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 29, pp. 1168-1177, 2021
-Settgast, T., & Kübler, A. (2024). Resting-State Brain Criticality and Performance with P300-Based BCIs. In Proceedings of the 9th International Brain-Computer Interface Conference, Technical University of Graz, Graz Austria.
-Settgast, T., Zilio, F., Kübler, A., & Northoff, G. (2023, February). Correlation between Neurophysiological Measures of Consciousness and BCI Performance in a Locked-in Patient. In 2023 11th International Winter Conference on Brain-Computer Interface (BCI) (pp. 1-6). IEEE.
-Cunha JD, Perdikis S, Halder S, Scherer R. Post-adaptation effects in a motor imagery brain-computer interface online coadaptive paradigm. IEEE Access. 2021 Mar 8;9:41688-703.
-M Sultana, S Perdikis, Automatic feature selection for sensorimotor rhythms brain-computer interface fusing expert and data-driven knowledge, IEEE Transactions on Neural Systems and Rehabilitation Engineering 32, 3422 - 3431, 2025.
+* Leeuwis, N., Yoon, S., & Alimardani, M. (2021). Functional connectivity analysis in motor-imagery brain computer interfaces. Frontiers in Human Neuroscience, 15, 732946.
+* Verkennis, B., Van Weelden, E., Marogna, F. L., Alimardani, M., Wiltshire, T. J., & Louwerse, M. M. (2025, January). Predicting workload in virtual flight simulations using EEG spectral and connectivity features. In 2025 IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR) (pp. 82-89). IEEE.
+* Kivioja, L. A., Leeuwis, N., Zapała, D., Alimardani, M. (2024, July). EEG connectivity patterns in left and right-handed users during motor imagery BCI control. In the 5th International Neuroergonomics Conference (pp. 359-366).
+* T. Cattai, S. Colonnese, M. -C. Corsi, D. S. Bassett, G. Scarano and F. De Vico Fallani, "Phase/Amplitude Synchronization of Brain Signals During Motor Imagery BCI Tasks," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 29, pp. 1168-1177, 2021
+* Settgast, T., & Kübler, A. (2024). Resting-State Brain Criticality and Performance with P300-Based BCIs. In Proceedings of the 9th International Brain-Computer Interface Conference, Technical University of Graz, Graz Austria.
+* Settgast, T., Zilio, F., Kübler, A., & Northoff, G. (2023, February). Correlation between Neurophysiological Measures of Consciousness and BCI Performance in a Locked-in Patient. In 2023 11th International Winter Conference on Brain-Computer Interface (BCI) (pp. 1-6). IEEE.
+* Cunha JD, Perdikis S, Halder S, Scherer R. Post-adaptation effects in a motor imagery brain-computer interface online coadaptive paradigm. IEEE Access. 2021 Mar 8;9:41688-703.
+* M Sultana, S Perdikis, Automatic feature selection for sensorimotor rhythms brain-computer interface fusing expert and data-driven knowledge, IEEE Transactions on Neural Systems and Rehabilitation Engineering 32, 3422 - 3431, 2025.
