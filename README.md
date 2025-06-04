@@ -59,7 +59,25 @@ We also expect contributions from diﬀerent teams interested in a broader range
 open-source tools presented during the workshop via new releases.
 
 
-## Timetable - TODO
+## Timetable
+
+| Time     | Temporary titles                                                                                | Speaker                              |
+| -------- | ----------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 5’       | Welcome & opening remarks                                                                       | Marie-Constance Corsi                |
+|          | **Part 1 – Identifying and evaluating alternative features**                                    | chair: Marie-Constance Corsi         |
+| 15’ + 5’ | Connectivity-based features                                                                     | Maryam Alimardani                    |
+| 15’ + 5’ | Neuronal avalanches for BCI                                                                     | Pierpaolo Sorrentino - online        |
+|          | **Part 2 – Towards the clinical routine…**                                                      | chair: Tristan Venot                 |
+| 15’ + 5’ | Brain networks for stroke rehabilitation                                                        | Fabrizio De Vico Fallani - online    |
+| 15’ + 5’ | HappyFeat                                                                                       | Arthur Desbois                       |
+| 15’ + 5’ | Brain Criticality Measures as Potential Predictors of BCI Performance in Neurological Disorders | Sonja Kleih-Dahms & Tomko Settgast   |
+|          | **Part 3 – Recommendations & guidelines when dealing with the features variability**            | chair: Serafeim Perdikis             |
+| 15’ + 5’ | Dealing with features (in)variance                                                              | Reinhold Scherer                     |
+| 15’ + 5’ | How to make features stronger and more stable?                                                  | José del R. Millan                   |
+|          | **Discussions**                                                                                 |                                      |
+| 30’      | Discussions                                                                                     | Organizers, speakers & audience      |
+| 5’       | Conclusion & closing remarks                                                                    | Organizers                           |
+
 
 ### Welcome & opening remarks
 
