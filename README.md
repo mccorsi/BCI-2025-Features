@@ -96,7 +96,10 @@ Chair: Tristan Venot
 
 1. *Brain networks for stroke rehabilitation*, by Fabrizio De Vico Fallani (15' talk + 5' Q&A)
 2. *Feature Selection & BCI pipelines with HappyFeat*, by Arthur Desbois (15' talk + 5' Q&A)
-3. *Brain Criticality Measures as Potential Predictors of BCI Performance in Neurological Disorders*, by Sonja Kleih-Dahms & Tomko Settgast (15' talk + 5' Q&A)
+3. *Brain Criticality Measures as Potential Predictors of BCI Performance in Neurological Disorders*, by [Sonja Kleih-Dahms](https://www.psychologie.uni-wuerzburg.de/int/mitarbeiter/kleih-dahms-sonja-dr-pd/) & [Tomko Settgast](https://www.psychologie.uni-wuerzburg.de/int/mitarbeiter/settgast-tomko-msc/
+) (15' talk + 5' Q&A)
+
+
 
 ### Part 3 – Recommendations & guidelines when dealing with the features variability
 
