@@ -4,7 +4,7 @@
 [2025 International BCI meeting](https://bcisociety.org/bci-meeting/)
 
 
-Workshop WXXX Session 3 - Thursday, June 5, 9:45am – 12:45pm (Banff Time) - room XXXX
+Workshop W19 (Session 3) - Thursday, June 5, 9:45am – 12:45pm (Banff Time) - room KC303
 
 ## Organizers:
 - [Tristan Venot](https://tristanvenot2.wordpress.com/): Postdoctoral fellow, Inria Paris, NERV project-team, Paris Brain Institute
@@ -81,6 +81,8 @@ open-source tools presented during the workshop via new releases.
 
 ### Welcome & opening remarks
 
+5' - Marie-Constance Corsi
+
 ### Part 1 – Identifying and evaluating alternative features
 
 Chair: Marie-Constance Corsi
@@ -103,10 +105,13 @@ Chair: Serafeim Perdikis
 1. *Dealing with features (in)variance*, by Reinhold Scherer (15' talk + 5' Q&A)
 2. *How to make features stronger and more stable?*, by José del R. Millan (15' talk + 5' Q&A)
    
-### Part 4, Discussions
+### Discussions
+
 Panel discussion (30') and Conclusion (5')
 
 ## Resources
+
+*Coming Soon*
 
 ## References
 * Leeuwis, N., Yoon, S., & Alimardani, M. (2021). Functional connectivity analysis in motor-imagery brain computer interfaces. Frontiers in Human Neuroscience, 15, 732946.
