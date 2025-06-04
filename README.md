@@ -7,7 +7,7 @@
 Workshop WXXX Session 3 - Thursday, June 5, 9:45am – 12:45pm (Banff Time) - room XXXX
 
 ## Organizers:
-- [Tristan Venot](): XXXX
+- [Tristan Venot](https://tristanvenot2.wordpress.com/): Postdoctoral fellow, Inria Paris, NERV project-team, Paris Brain Institute
 - [Serafeim Perdikis](https://www.essex.ac.uk/people/PERDI05405/Serafeim-Perdikis): Associate Professor (Senior Lecturer), Brain-Computer Interface and Neural Engineering Laboratory, University of Essex, United Kingdom
 - [Marie-Constance Corsi](https://marieconstance-corsi.netlify.app/): Inria Research Scientist, Inria Paris, NERV project-team, Paris Brain Institute
 
