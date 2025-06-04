@@ -66,10 +66,10 @@ open-source tools presented during the workshop via new releases.
 | 5’       | Welcome & opening remarks                                                                       | Marie-Constance Corsi                |
 |          | **Part 1 – Identifying and evaluating alternative features**                                    | chair: Marie-Constance Corsi         |
 | 15’ + 5’ | Connectivity-based features                                                                     | Maryam Alimardani                    |
-| 15’ + 5’ | Neuronal avalanches for BCI                                                                     | Pierpaolo Sorrentino - online        |
+| 15’ + 5’ | Neuronal avalanches for BCI                                                                     | Pierpaolo Sorrentino                 |
 |          | **Part 2 – Towards the clinical routine…**                                                      | chair: Tristan Venot                 |
-| 15’ + 5’ | Brain networks for stroke rehabilitation                                                        | Fabrizio De Vico Fallani - online    |
-| 15’ + 5’ | HappyFeat                                                                                       | Arthur Desbois                       |
+| 15’ + 5’ | Brain networks for stroke rehabilitation                                                        | Fabrizio De Vico Fallani             |
+| 15’ + 5’ | Feature Selection & BCI pipelines with HappyFeat                                                | Arthur Desbois                       |
 | 15’ + 5’ | Brain Criticality Measures as Potential Predictors of BCI Performance in Neurological Disorders | Sonja Kleih-Dahms & Tomko Settgast   |
 |          | **Part 3 – Recommendations & guidelines when dealing with the features variability**            | chair: Serafeim Perdikis             |
 | 15’ + 5’ | Dealing with features (in)variance                                                              | Reinhold Scherer                     |
@@ -81,13 +81,30 @@ open-source tools presented during the workshop via new releases.
 
 ### Welcome & opening remarks
 
-### Part 1, XXX
-*XXXXX*, by XXX (15' talk + 5' Q&A)
+### Part 1 – Identifying and evaluating alternative features
 
+Chair: Marie-Constance Corsi
+
+1. *Connectivity-based features*, by Maryam Alimardani (15' talk + 5' Q&A)
+2. *Neuronal avalanches for BCI*, by Pierpaolo Sorrentino (15' talk + 5' Q&A)
+
+### Part 2 – Towards the clinical routine
+
+Chair: Tristan Venot
+
+1. *Brain networks for stroke rehabilitation*, by Fabrizio De Vico Fallani (15' talk + 5' Q&A)
+2. *Feature Selection & BCI pipelines with HappyFeat*, by Arthur Desbois (15' talk + 5' Q&A)
+3. *Brain Criticality Measures as Potential Predictors of BCI Performance in Neurological Disorders*, by Sonja Kleih-Dahms & Tomko Settgast (15' talk + 5' Q&A)
+
+### Part 3 – Recommendations & guidelines when dealing with the features variability
+
+Chair: Serafeim Perdikis
+
+1. *Dealing with features (in)variance*, by Reinhold Scherer (15' talk + 5' Q&A)
+2. *How to make features stronger and more stable?*, by José del R. Millan (15' talk + 5' Q&A)
+   
 ### Part 4, Discussions
-Panel discussion
-
-### Conclusion & closing remarks
+Panel discussion (30') and Conclusion (5')
 
 ## Resources
 
